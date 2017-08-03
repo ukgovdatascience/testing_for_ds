@@ -1,0 +1,6 @@
+requests
+requests_cache
+pandas
+pytest
+nltk
+# python -c 'import nltk; nltk.download("stopwords")'
